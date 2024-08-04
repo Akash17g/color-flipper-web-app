@@ -1,0 +1,30 @@
+#green {
+    background-color: green;
+}
+
+#red {
+    background-color: red;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#blue {
+    background-color: blue;
+}
+
+body {
+    text-align: center;
+    font-family: sans-serif;
+    font-style: oblique;
+}
+
+button {
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    margin: 5px;
+    font-size: large;
+    padding: 10px;
+}
